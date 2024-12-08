@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea1d5a17.css",
+    "main.js": "/static/js/main.7025d0c5.js",
+    "static/js/453.1aa7ad6d.chunk.js": "/static/js/453.1aa7ad6d.chunk.js",
+    "static/media/SpaceGrotesk-Regular.ttf": "/static/media/SpaceGrotesk-Regular.3683ead52440efaeba4d.ttf",
+    "static/media/SpaceGrotesk-Bold.ttf": "/static/media/SpaceGrotesk-Bold.9ee2fc15497f7869312f.ttf",
+    "static/media/RenukaResume.docx": "/static/media/RenukaResume.04c4183ad9b68e15cb84.docx",
+    "index.html": "/index.html",
+    "main.ea1d5a17.css.map": "/static/css/main.ea1d5a17.css.map",
+    "main.7025d0c5.js.map": "/static/js/main.7025d0c5.js.map",
+    "453.1aa7ad6d.chunk.js.map": "/static/js/453.1aa7ad6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1d5a17.css",
+    "static/js/main.7025d0c5.js"
+  ]
+}
